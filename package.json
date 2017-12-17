@@ -1,0 +1,19 @@
+{
+  "name": "defaults-test",
+  "version": "0.0.1",
+  "description": "Webpack Defaults Test Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3viant0ne/defaults-test.git"
+  },
+  "author": "d3vaint0ne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3viant0ne/defaults-test/issues"
+  },
+  "homepage": "https://github.com/d3viant0ne/defaults-test#readme"
+}
