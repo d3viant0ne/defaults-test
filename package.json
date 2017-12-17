@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/d3viant0ne/defaults-test/issues"
   },
-  "homepage": "https://github.com/d3viant0ne/defaults-test#readme"
+  "homepage": "https://github.com/d3viant0ne/defaults-test#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.7"
+  }
 }
