@@ -1,6 +1,6 @@
 <div align="center">
   <!-- replace with accurate logo e.g from https://worldvectorlogo.com/ -->
-  <img width="190" height="190" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img width="185" height="185" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <a href="https://webpack.js.org/">
     <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
