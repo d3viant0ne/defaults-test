@@ -2,7 +2,7 @@
   <!-- replace with accurate logo e.g from https://worldvectorlogo.com/ -->
   <img width="180" height="180" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <a href="https://webpack.js.org/">
-    <img width="200" height="200" vspace="" src="https://webpack.js.org/assets/icon-square-big.svg">
+    <img width="220" height="220" vspace="" src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
   <h1>${title}</h1>
   <p>${description}</p>
